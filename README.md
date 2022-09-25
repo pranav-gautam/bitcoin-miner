@@ -7,7 +7,7 @@ The worker in this software receives a request to mine without a limit on the nu
 SAMPLE OUTPUT -
 The following output was generated when input was 4:
 
-# ![unnamed](https://user-images.githubusercontent.com/64377125/192152807-663df508-ad75-464d-9e27-531437a3dc10.png)
+![unnamed](https://user-images.githubusercontent.com/64377125/192152807-663df508-ad75-464d-9e27-531437a3dc10.png)
 
 RUNNING TIME -
 
@@ -17,7 +17,7 @@ cpu -> 160ms
 
 COIN WITH MOST ZEROES -
 
-# ![unnamed](https://user-images.githubusercontent.com/64377125/192152861-e5c8e79b-468e-4ee8-a3e1-5bcefa303186.jpg)
+![unnamed](https://user-images.githubusercontent.com/64377125/192152861-e5c8e79b-468e-4ee8-a3e1-5bcefa303186.jpg)
 
 We yielded bitcoin with 6 leading zeroes.
 
